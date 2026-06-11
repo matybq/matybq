@@ -1,5 +1,5 @@
 <h1 align="center">Matías</h1>
-<p align="center"><i>Backend Engineer · Fullstack Developer · Río Cuarto, Argentina</i></p>
+<p align="center"><i>Software Engineer · AI Systems · Argentina</i></p>
 
 <p align="center">
   Focused on backend architecture, multi-agent systems, and developer tooling.<br>
