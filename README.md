@@ -33,13 +33,11 @@ Backend systems &nbsp;·&nbsp; Multi-agent AI &nbsp;·&nbsp; API design &nbsp;·
   <img src="https://img.shields.io/badge/-Python-0a0a0a?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Flask-0a0a0a?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/-Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Spring%20Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-0a0a0a?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-0a0a0a?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Redis-0a0a0a?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS-0a0a0a?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-0a0a0a?style=flat-square&logo=docker&logoColor=white" />
