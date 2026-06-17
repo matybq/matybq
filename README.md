@@ -1,22 +1,19 @@
-<h1>Matías</h1>
-<p><i>Software Engineer · AI Systems</i></p>
+<h1>Matías Bernardi</h1>
+<p><i>Backend & AI Engineer</i></p>
 
----
+Building AI-powered products with well-engineered foundations — SaaS architecture, LLM agents, multi-agent systems, and APIs designed to scale.
 
-### Areas
+<h2>Stack</h2>
 
-Backend systems &nbsp;·&nbsp; Multi-agent AI &nbsp;·&nbsp; API design &nbsp;·&nbsp;·&nbsp; SaaS architecture
+Ruby on Rails &nbsp;·&nbsp; Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Docker
 
-### Currently
+<h2>Currently</h2>
 
-- Working at [PlumLabs](https://www.plum.com.ar/)
-- Studying at UNRC
+Tech Lead at [PlumLabs](https://www.plum.com.ar/)
 
-## Contact
-<p>
-  <a href="https://linkedin.com/in/bernardimatias"><img src="https://img.shields.io/badge/-LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:matybq20@gmail.com"><img src="https://img.shields.io/badge/-Email-0a0a0a?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+Finishing my Bachelor's in Computer Science at [UNRC](https://www.exa.unrc.edu.ar/licenciaturacomputacion/)
 
----
+<h2>Contact</h2>
+
+[LinkedIn](https://linkedin.com/in/bernardimatias) &nbsp;·&nbsp; [Email](mailto:matybq20@gmail.com)
+ 
