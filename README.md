@@ -13,6 +13,8 @@ Tech Lead at [PlumLabs](https://www.plum.com.ar/)
 
 Finishing my Bachelor's in Computer Science at [UNRC](https://www.exa.unrc.edu.ar/licenciaturacomputacion/)
 
+Building & Growing 🚀
+
 <h2>Contact</h2>
 
 [LinkedIn](https://linkedin.com/in/bernardimatias) &nbsp;·&nbsp; [Email](mailto:matybq20@gmail.com)
