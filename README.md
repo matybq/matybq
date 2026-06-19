@@ -3,19 +3,24 @@
 
 Building AI-powered products with well-engineered foundations — SaaS architecture, LLM agents, multi-agent systems, and APIs designed to scale.
 
-<h2>Stack</h2>
+<h2>🛠️ Technologies & Tools</h2>
 
-Ruby on Rails &nbsp;·&nbsp; Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; PostgreSQL &nbsp;·&nbsp; Docker
+- Languages: Python, Ruby, JavaScript, Java
+- Backend: Ruby on Rails, FastAPI, Flask, Spring Boot
+- Frontend: React, Vue.js, HTML, CSS, Sass
+- Databases: PostgreSQL, MySQL, MongoDB
+- DevOps: Docker, CI/CD, AWS
+- Tools: Git, GitHub, OpenCode, Claude Code, Codex
 
-<h2>Currently</h2>
+<h2>💻 Currently</h2>
 
-Tech Lead at [PlumLabs](https://www.plum.com.ar/)
+- Tech Lead at [PlumLabs](https://www.plum.com.ar/)
 
-Finishing my Bachelor's in Computer Science at [UNRC](https://www.exa.unrc.edu.ar/licenciaturacomputacion/)
+- Finishing my Bachelor's in Computer Science at [UNRC](https://www.exa.unrc.edu.ar/licenciaturacomputacion/)
 
-Building & Growing 🚀
+- Constantly Building & Growing 🚀
 
-<h2>Contact</h2>
+<h2>🤝 Contact</h2>
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/bernardimatias) or [Email](mailto:matybq20@gmail.com) me.
  
