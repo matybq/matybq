@@ -17,5 +17,5 @@ Building & Growing 🚀
 
 <h2>Contact</h2>
 
-[LinkedIn](https://linkedin.com/in/bernardimatias) &nbsp;·&nbsp; [Email](mailto:matybq20@gmail.com)
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/bernardimatias) or [Email](mailto:matybq20@gmail.com) me.
  
