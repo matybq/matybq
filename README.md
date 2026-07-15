@@ -4,11 +4,10 @@ Building AI-powered products with well-engineered foundations that solve real pr
 
 <h2>🛠️ Tech Stack</h2>
 
-- **Languages**: Python, Ruby, JavaScript, TypeScript
-- **Backend**: Ruby on Rails, FastAPI, Flask
-- **Databases**: PostgreSQL, MySQL, MongoDB
-- **Infra**: Docker, Redis, CI/CD, AWS
-- **AI / LLM:** Multi-agent systems, LLM integration, Agentic coding tools
+- **Backend & Data**: Python, FastAPI, Ruby on Rails, REST APIs, PostgreSQL, Redis.
+- **Cloud & Practices**: Docker, AWS (S3, Amazon Q Business), CI/CD, GitHub Actions, Git, Linux/VPS; System Design, Architecture Patterns, RBAC/PBAC,
+Application Security, SDD, TDD.
+- **Tools**: LangChain, LangGraph, RubyLLM, Chroma, RAGAS, OpenAI, Anthropic Claude, Hugging Face, Ollama.
 
 
 <h2>💻 Currently</h2>
